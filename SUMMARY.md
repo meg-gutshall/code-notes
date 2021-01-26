@@ -23,7 +23,7 @@
 
 ## daily.dev
 
-* [Redwood.js](daily.dev/redwood.js.md)
+* [A RedwoodJS Getting Started Guide](daily.dev/redwood.js.md)
 * [Navigating the Technical Interview](daily.dev/navigating-the-technical-interview.md)
 * [RxJS & Reactive Programming Fundamentals](daily.dev/rxjs-and-reactive-programming-fundamentals.md)
 

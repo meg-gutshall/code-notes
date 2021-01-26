@@ -2,11 +2,11 @@
 description: 01/26/2020
 ---
 
-# Redwood.js
+# A RedwoodJS Getting Started Guide
 
 > _**David S. Price**_
 
-## Redwood.js
+## **A RedwoodJS Getting Started Guide**
 
 Missed shit in the beginning
 
