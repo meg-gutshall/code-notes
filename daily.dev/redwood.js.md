@@ -4,6 +4,8 @@ description: 01/26/2020
 
 # Redwood.js
 
+> _**David S. Price**_
+
 ## Redwood.js
 
 Missed shit in the beginning
