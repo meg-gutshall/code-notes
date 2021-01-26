@@ -21,3 +21,7 @@
 
 * [Tools & Tricks](ruby-for-good/tools-and-tricks.md)
 
+## daily.dev
+
+* [Redwood.js](daily.dev/redwood.js.md)
+
